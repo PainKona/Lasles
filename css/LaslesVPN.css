@@ -270,7 +270,7 @@ h6 {
     will-change: transform;
     transition: all 0.2s linear;
   }
-  .menu.is-active {
+  .menu.is-show {
     transform: translateX(0);
   }
 
